@@ -1,0 +1,17 @@
+
+.CardOfMovies{
+    width: 170px;
+    height: 253.84px;
+    
+    margin-left: 20px;
+    background-color: transparent;
+    border: none;
+}
+
+.Column{
+    display: contents;
+}
+.Rate{
+    margin-top: -28px;
+    margin-left: inherit;
+}

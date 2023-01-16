@@ -42,7 +42,7 @@ Front-End
 </ul>
  
 Back-End
-Front-End
+
 <ul>
 <li>DotNet Core 6 </li>
 <li>SQL Server</li>
